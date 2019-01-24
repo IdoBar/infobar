@@ -1,0 +1,240 @@
+# SITE SETUP
+# Documentation: https://sourcethemes.com/academic/
+
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+color_theme = "ocean"
+# Enable users to switch between day and night mode?
+day_night = true
+
+# Font style.
+#   Choose from `default`, `classic`, or `playfair`.
+font = "playfair"
+
+# Description for social sharing and search engines. If undefined, superuser role is used in place.
+name = "Ido Bar"
+description = "Data-oriented Research and Education"
+role = "Lecturer (Bioinformatics) at Griffith Sciences"
+organization = "Griffith University"
+organization_url = "https://www.griffith.edu.au/"
+
+# Contact Widget setup
+  email = "i.bar@griffith.edu.au"
+  address = "Science 2 building (N34) Room 2.37, Griffith University, Nathan, QLD 4111, Australia"
+  # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
+  office_hours = ""
+  phone = "+61 (7) 3735 7292"
+#  mobile = "+61 (4) 3571 8770"
+  skype = "ido.bar"
+  telegram = ""
+  keybase = ""  # Your keybase.io username.
+
+  # Enter an optional link for booking appointments (e.g. calendly.com).
+  appointment_url = ""
+
+  # Discussion link (e.g. link to a forum, mailing list, or chat).
+  #   Uncomment line below to use.
+  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+
+  # Enable/disable map in Contact widget.
+  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+  # a map provider below.
+  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `map = 2`.
+  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  map = 2
+  map_api_key = ""
+  latitude = "-27.552868"
+  longitude = "153.052594"
+  zoom = 13
+
+# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+sharing_image = ""
+
+# Twitter username (without @). Used when a vistor shares your site on Twitter.
+twitter = "DrIdoBar"
+github = "IdoBar"
+
+# Diplay a logo in navigation bar rather than title (optional).
+#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+logo = ""
+
+# Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+date_format = "Mon, Jan 2, 2006"
+#   Examples: "3:04 pm" or "15:04"
+time_format = "15:04"
+
+# Show estimated reading time for posts?
+reading_time = true
+
+# Display comment count? Requires commenting to be enabled.
+comment_count = true
+
+# Display next/previous section pager?
+section_pager = false
+
+# Enable global LaTeX math rendering?
+#   If false, you can enable it locally on a per page basis.
+math = false
+
+# Enable global source code highlighting? true/false
+# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
+highlight = true
+highlight_languages = ["r", "yaml"]
+highlight_style = "tomorrow-night-blue" #  "atelier-cave-light"
+highlight_version = "9.13.1"
+# highlight_languages = ["r"]  # Add support for highlighting additional languages
+# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+
+# Enable in-built social sharing buttons?
+sharing = true
+
+# Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+  
+#  [[social]]
+#    icon = "paper-plane"
+#    icon_pack = "fa"
+#    link = "mailto:i.bar@griffith.edu.au"
+
+#  [[social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "//twitter.com/dridobar"
+
+#  [[social]]
+#    icon = "google-scholar"
+#    icon_pack = "ai"
+#    link = "https://scholar.google.com/citations?user=RgBUWsgAAAAJ&hl=en"
+
+ # [[social]]
+#    icon = "github"
+#    icon_pack = "fa"
+#    link = "//github.com/IdoBar"
+    
+ # [[social]]
+#    icon = "orcid"
+ #   icon_pack = "ai"
+  #  link = "http://orcid.org/0000-0002-2004-4233"
+    
+#  [[social]]
+ #   icon = "researchgate"
+  #  icon_pack = "ai"
+   # link = "https://www.researchgate.net/profile/Ido_Bar"
+    
+#  [[social]]
+ #   icon = "linkedin"
+  #  icon_pack = "fa"
+#    link = "https://www.linkedin.com/in/idobar/"
+
+
+# Privacy pack
+#   Show a cookie consent message to visitors
+#   Anonymize IP in Google Analytics (if enabled)
+privacy_pack = false
+
+# Get user avatars from Gravatar.com? (true/false)
+gravatar = false
+
+
+# Publication types.
+#   Used to categorize publications.
+#   The index of the publication type in the list is used as its unique numerical identifier.
+#   The numeric ID is used in a publication's frontmatter to categorize it.
+#   The language can be edited below.
+#   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
+#   translated.
+publication_types = [
+  'Uncategorized',  # 0
+  'Conference paper',  # 1
+  'Journal article',  # 2
+  'Manuscript',  # 3
+  'Report',  # 4
+  'Book',  # 5
+  'Book section'  # 6
+]
+
+# Align the main menu to the right of the page? (true/false)
+menu_align_right = false
+
+# Link custom CSS and JS assets
+#   (relative to /static/css and /static/js respectively)
+custom_css = []
+custom_js  = []
+
+# Configuration of talk pages.
+[talks]
+  # Show talk time?
+  time = true
+
+# Configuration of publication pages.
+[publications]
+  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "January, 2006"
+
+# Configuration of project pages.
+[projects]
+  # List publications and talks related to the project?
+  list_children = true
+
+  # Post list format.
+  #   0 = Simple
+  #   1 = Detailed
+  #   2 = Stream
+  post_format = 2
+
+  # Publication list format.
+  #   0 = Simple
+  #   1 = Detailed
+  #   2 = APA
+  #   3 = MLA
+  #   4 = Stream
+  publication_format = 4
+
+  # Talk list format.
+  #   0 = Simple
+  #   1 = Detailed
+  #   2 = Stream
+  talk_format = 2
+
+# Search.
+[search]
+  # Search provider:
+  #   0: No search engine
+  #   1: Built-in (Fuse)
+  #   2: Algolia (https://www.algolia.com)
+  engine = 1
+
+  # Configuration of Algolia search engine.
+  # Paste the values from your Algolia dashboard.
+  [search.algolia]
+    app_id = ""
+    api_key = ""
+    index_name = ""
+    show_logo = false
