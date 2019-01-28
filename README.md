@@ -1,2 +1,3 @@
-# infobar
-Personal and commercial website of Ido Bar
+# Infobar
+Research and Business Informatics  
+&reg;2019 Ido Bar
