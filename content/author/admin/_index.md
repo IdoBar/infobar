@@ -1,43 +1,54 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include application of genomics and bioinformatics tools to improve sustainable production of agriculture crops. These include investigating pathogen populations genetics and genomics, changes in crops gene expression in response to pathogen attack and developing molecular probes for highly accurate pathogen diagnostic devices.  
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Molecular Biology and Bioinformatics
+    institution: University of the Sunshine Coast
+    year: 2015
+  - course: MSc in Aquaculture Genetics
+    institution: Hebrew University in Jerusalem
+    year: 2011
+  - course: BSc in Marine Biology and Biotechnology
+    institution: Ben Gurion University of the Negev
+    year: 2007
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Crop and Pathogen Genomics
+- Molecular Diagnostics
+- Bioinformatics Tools Development
+- R Training and Education
+name: Ido Bar
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Griffith University
+  url: "https://www.griffith.edu.au"
+role: Lecturer (Level B)
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DrIdoBar
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=RgBUWsgAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/idobar
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/idobar/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2004-4233
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ido_Bar 
 superuser: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a lecturer for Bioinformatics at Griffith University, Nathan campus, developing, teaching and convene academic courses, as well as supervising under- and postgraduate students in research projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In addition to lecturing, as a researcher of the Environment Futures Research Institute (EFRI), I investigate the genomics of fungal pathogens in major legume crops to identify ways to overcome diseases and develop resistant crops to help future food security.  
+ 
+Current courses: Introduction to Bioinformatics (3030NSC), Molecular Biology (2012NSC) 

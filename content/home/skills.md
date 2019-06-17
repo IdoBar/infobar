@@ -1,20 +1,24 @@
 ---
 active: true
-date: "2017-09-20T00:00:00+10:00"
+date: "2019-06-18T01:25:35+10:00"
 feature:
+- description: 90%
+  icon: dna
+  icon_pack: fas
+  name: Molecular Biology
+- description: 90%
+  icon: laptop-code
+  icon_pack: fas
+  name: Bioinformatics
 - description: 90%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-subtitle: ""
+# - description: 20%
+#   icon: fish
+#   icon_pack: fas
+#   name: Kayak Fishing
+subtitle: "Areas of expertise"
 title: Skills
 weight: 7
 widget: featurette

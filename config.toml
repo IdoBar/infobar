@@ -5,21 +5,22 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Infobar Data-oriented Research and Education"
+title = "Ido Bar"
 
+# Image by <a href="https://pixabay.com/users/sbgonti-8111981/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3221005">Susana Gonzalez</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3221005">Pixabay</a>
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Ido Bar"
+copyright = "&copy; 2019 Ido Bar."
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "@idobar"
 
 ############################
 ## Advanced options below ##

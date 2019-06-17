@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Infobar Data-oriented Research and Education</title>
+    <title>Homes on Ido Bar</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Infobar Data-oriented Research and Education</description>
+    <description>Recent content in Homes on Ido Bar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Ido Bar</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Ido Bar.</copyright>
+    <lastBuildDate>Tue, 18 Jun 2019 01:25:35 +1000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,18 +22,18 @@
     </item>
     
     <item>
-      <title>Academic</title>
+      <title>Ido Bar | PhD</title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +1000</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+      <description>Genomics and Bioinformatics</description>
     </item>
     
     <item>
       <title>Biography</title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      <pubDate>Tue, 18 Jun 2019 01:25:35 +1000</pubDate>
       
       <guid>/home/about/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Skills</title>
       <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +1000</pubDate>
+      <pubDate>Tue, 18 Jun 2019 01:25:35 +1000</pubDate>
       
       <guid>/home/skills/</guid>
       <description></description>

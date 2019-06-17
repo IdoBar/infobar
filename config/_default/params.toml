@@ -3,18 +3,18 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "ocean"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "playfair"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 name = "Ido Bar"
-description = "Data-oriented Research and Education"
-role = "Lecturer (Bioinformatics) at Griffith Sciences"
+description = "Genomics and Bioinformatics Research"
+role = "Lecturer (Bioinformatics)"
 organization = "Griffith University"
 organization_url = "https://www.griffith.edu.au/"
 
@@ -24,7 +24,7 @@ organization_url = "https://www.griffith.edu.au/"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
   office_hours = ""
   phone = "+61 (7) 3735 7292"
-#  mobile = "+61 (4) 3571 8770"
+  mobile = "+61 (4) 3571 8770"
   skype = "ido.bar"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -66,8 +66,8 @@ github = "IdoBar"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
-
+# logo = "icons/dead-fish-green.svg"
+logo = "icons/kissclipart-science-logo-clipart-science-logo-fac329f9c6c398e5.png"
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Mon, Jan 2, 2006"
@@ -90,7 +90,7 @@ math = false
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r", "yaml"]
+highlight_languages = ["r", "yaml", "bash"]
 highlight_style = "tomorrow-night-blue" #  "atelier-cave-light"
 highlight_version = "9.13.1"
 # highlight_languages = ["r"]  # Add support for highlighting additional languages
@@ -125,7 +125,7 @@ sharing = true
 #  [[social]]
 #    icon = "twitter"
 #    icon_pack = "fa"
-#    link = "//twitter.com/dridobar"
+#    link = "https://twitter.com/dridobar"
 
 #  [[social]]
 #    icon = "google-scholar"
@@ -135,12 +135,12 @@ sharing = true
  # [[social]]
 #    icon = "github"
 #    icon_pack = "fa"
-#    link = "//github.com/IdoBar"
+#    link = "https://github.com/IdoBar"
     
  # [[social]]
 #    icon = "orcid"
  #   icon_pack = "ai"
-  #  link = "http://orcid.org/0000-0002-2004-4233"
+  #  link = "https://orcid.org/0000-0002-2004-4233"
     
 #  [[social]]
  #   icon = "researchgate"
@@ -180,7 +180,7 @@ publication_types = [
 ]
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Link custom CSS and JS assets
 #   (relative to /static/css and /static/js respectively)
