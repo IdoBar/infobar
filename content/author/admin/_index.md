@@ -47,7 +47,7 @@ social:
 superuser: true
 ---
 
-I am a lecturer for Bioinformatics at Griffith University, Nathan campus, developing, teaching and convene academic courses, as well as supervising under- and postgraduate students in research projects.
+I am a lecturer for Bioinformatics at Griffith University, [Nathan campus](#contact), developing, teaching and convene academic courses, as well as supervising under- and postgraduate students in research projects.
 
 In addition to lecturing, as a researcher of the Environment Futures Research Institute (EFRI), I investigate the genomics of fungal pathogens in major legume crops to identify ways to overcome diseases and develop resistant crops to help future food security.  
  

@@ -7,14 +7,16 @@ weight: 60
 widget: custom
 ---
 
-This is an example of using the *custom* widget to create your own homepage section.
+I lecture the following courses at Griffith University:
 
-I am a teaching instructor for the following courses at University X:
+- 3030NSC: Introduction to Bioinformatics
+- 2012NSC: Molecular Biology
+- 6003NSC: Research Methodologies
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+I was a teaching assistant in the following courses at the University of the Sunshine Coast:
+
+- MBT355: Bioinformatics
+- ENG203: R Programming for Engineers 
+- LFS252: Molecular Biology
+- ENS371: Aquaculture 
+- HLT100: Anatomy and Physiology
